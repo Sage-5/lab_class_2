@@ -1,0 +1,4 @@
+#!/bin/bash
+my_variable="hello time"
+echo $my_variable
+
